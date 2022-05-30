@@ -1,10 +1,9 @@
-# alpine-tools-docker
+# forever
 
 alpine with git/curl/dig
 
-
 ```console
-$ docker run -it --rm islishude/alpine-tools
+$ docker run -it --rm islishude/forever sh
 $ dig -v
 $ git --version
 git version 2.26.2
